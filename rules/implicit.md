@@ -16,6 +16,11 @@ Players may play cards by paying their mana costs and any additional costs the c
 
 Players can choose to simply annihilate any cards they are holding in their hands. This serves a two-fold purpose. The first one is to compensate the tendency of 'the discard color' being quite strong in deckbuilders, since your starting deck is purposefully bad and thus getting rid of it makes the rest of your deck better. The second purpose is as a method of handling misplay. When a card is illegally revealed from hand, the revealing player has two options. Pay the costs of the card and take it back into their hand (works when the problem was targeting) or they may obliterate the card. A method of punishing misplay is needed, since it will make nobody seem like the asshole when demanding others to play according to the rules.
 
+### Pass priority and their turn
+
+If a player has priority, they can choose to simply to not act and pass the priority to the next player.
+If it's their turn and the stack is empty, they may freely choose to end their turn
+
 ## Creatures
 
 ### Attacking

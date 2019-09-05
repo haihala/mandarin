@@ -2,9 +2,6 @@
 
 This file describes various keywords the game uses to function.
 
-N means a number.
-T means a target.
-
 ## Move S Z
 
 Remove cards matching selector S from their current zone and add them to Z.

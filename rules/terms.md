@@ -17,6 +17,14 @@ word X X doesnt specify kind and is a tool to link abilities so that they share 
 
 A way to sort players. The first player is the one whose turn it is and after that players go in the order the table rotates in.
 
+## Offset play order
+
+Same as play order, but current player is moved last.
+
+## Turn owner
+
+The player whose turn it is. Priority is not a turn.
+
 ## Zone
 
 In short, a zone is a gameplay area where cards can exist. All existing zone types are listed below. Amount of cards in a zone is public information, but the cards themselves are often not.
