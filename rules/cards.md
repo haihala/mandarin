@@ -6,25 +6,33 @@ This file describes card types and card regions.
 
 Cards come in a few different types. Card types are descriptions of the cards' interfaces.
 
-### Machine
+### Creature
 
-Container for activated, static and triggered abilities.
+Can attack other players and operate things.
+
+Example creature is a bit harder to define when combat isn't fleshed out, but think of any common creature from mtg.
 
 ### Post
 
-A machine that requires a crew to operate.
+A building that needs a crew to operate and does something large-ish. For more on crewing, check out `keywords.md`
 
-### Creature
+I'll give two examples, since usually posts should be either activated or passive.
 
-Can attack other players and crew posts.
+Example of an active post could be a battering ram that needs a crew and then has an activated ability to destroy another post.
 
-### Equipment
+Example of a passive post could be a toll booth that requires all players to pay one mana each time a card changes a zone or the controller gets a gold token.
 
-A trinket that can be attached to a creature.
+### Attachment
+
+Something that is attached to something and works passively.
+
+Example attachment could attach to posts and deal one damage to each crew member at the end of the turn until removed.
 
 ### Momentary
 
 Does something, is discarded afterwards.
+
+Example momentary could draw two cards and then go to the graveyard.
 
 ## Factions
 
