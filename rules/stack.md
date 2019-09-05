@@ -4,12 +4,10 @@ This file describes how the stack works. Some cards have the 'fast' type. These 
 
 Here is a table of what can react to what:
 
-Base card is row, column is reacting card
-
-|can I|play a basic|play a fast|play a breakneck|
+|Can I play|basic|fast|breakneck|
 |:---:|:---:|:---:|:---:|
-|on a basic|no|yes|yes|
-|on a fast|no|yes|yes|
-|on a breakneck|no|no|yes|
+|when the top card is basic|no|yes|yes|
+|when the top card is fast|no|yes|yes|
+|when the top card is breakneck|no|no|yes|
 
 So basically, a card can always be played as a reaction to a slower card and non-basic cards can react to cards with the same speed.
