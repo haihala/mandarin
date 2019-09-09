@@ -10,13 +10,7 @@ All non-static abilities are of form `costs: effects`. Costs section can include
 * Tap self: Gain 2 gold
 * Start of turn, tap self, pay 1 mana: skip your turn
 
-Abilities with both a trigger and cost actions are activatable abilities that can be used only as the trigger is present.
-
-An ability is an activatable ability if there is any cost. It is a triggered ability if it requires a trigger. It can be both at the same time.
-
-## Costs
-
-Costs are linked to effects. If a cost can be fully resolved, the rest of the ability will resolve.
+Abilities with both a trigger and cost actions are hybrid abilities. Hybrid abilities count as both, an activatable and a triggered ability. They can be used only as the trigger is present and are used by paying the costs. A player doesn't have to use a hybrid ability when the trigger is present.
 
 ## Effects
 

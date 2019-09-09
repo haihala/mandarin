@@ -67,8 +67,7 @@ Accurate descriptions of faction mechanics can be found in `keywords.md`
 
 ### Pyfka
 
-* 
-	* Authoriterian
+* Structure breeds order. Order is the source of safety. Safety brings serenity and to be serene is to live.
 	* Kafka-esque
 * Have to jump through multiple loops to get what they want
 * Others have to jump through multiple loops to interact with them

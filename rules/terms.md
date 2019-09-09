@@ -77,4 +77,4 @@ The stash isn't a singular zone, but a collection of zones that are mostly used 
 
 ## Turn
 
-'Turn' within an ability refers to a single player's turn. So in a four player game, something that can be used once per turn can be used once on your turns and three times between your turns.
+'Turn' within ability text refers to a single player's turn. So in a four player game, something that can be used once per turn can be used once on your turns and three times between your turns.
