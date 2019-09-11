@@ -6,7 +6,7 @@ Cards have their own files. This is mostly so that one can better track the chan
 
 ## Starter
 
-Starter cards are the ones one aquires at the start of the game and are relatively basic.
+Starter cards are the ones one aquires at the start of the game and are relatively basic. They have at least one of each generic card type.
 
 ## Market
 

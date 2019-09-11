@@ -33,6 +33,10 @@ Select N or more objects.
 
 Select N1 or more, but N2 or fewer objects.
 
+### any number of
+
+Freely select how many and what you target.
+
 ## Limiters
 
 ### types
