@@ -6,12 +6,14 @@ This file describes terminology that comes with the game. Similar to `keywords.m
 
 Keywords and targeting abilities have the following keyword syntax:
 
-word T means that T must be a text string such as a card type.
-word N means that N must be a number such as an amount of something.
-word L means that L must be a limiter, for example in "Target human creature", the 'human creature' bit is the limiter.
-word S means that S must be a selector, for example "Destroy target human creature", "target human creature" is the target, where "human creature" is the limiter of the target and "target" is the method.
-word Z means that Z mist be a zone for example the graveyard.
-word X X doesnt specify kind and is a tool to link abilities so that they share a value.
+
+T is a text string such as a card type.
+N is a number such as an amount of something.
+L is a limiter, for example in "Target human creature", the 'human creature' bit is the limiter.
+S is a selector, for example "Destroy target human creature", "target human creature" is the target, where "human creature" is the limiter of the target and "target" is the method.
+Z is a zone for example the graveyard.
+M is an amount of mana.
+X doesnt specify kind and is a tool to link abilities so that they share a value.
 
 ## Play order
 
@@ -24,6 +26,10 @@ Same as play order, but current player is moved last.
 ## Turn owner
 
 The player whose turn it is. Priority is not a turn.
+
+## Total damage
+
+Total damage is the amount of damage a creature would do given infinite turns.
 
 ## Ability
 

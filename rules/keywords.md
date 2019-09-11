@@ -46,3 +46,12 @@ Select a set of creatures so that their combined
 ## Attach T1 to a T2
 
 Place T2 with all its previous attachments on top of T1. T1 is now an attachment of T2. Text in T1 that refers to host now refers to T2 for as long as neither is destroyed nor T1 is attached elsewhere. Text on T2 that refers to attachments now refers to T1.
+
+## Pay (M|N gold)
+
+Owner loses either M mana or N gold, depending on the effect.
+
+## Gain (M|N gold)
+
+Opposite of `pay`. Owner gets either M mana or N gold.
+
