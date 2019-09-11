@@ -55,3 +55,10 @@ Owner loses either M mana or N gold, depending on the effect.
 
 Opposite of `pay`. Owner gets either M mana or N gold.
 
+## Attack P with T
+
+More on this in `combat.md`. T deals it's total damage to P.
+
+## Fight T1 T2
+
+More on this in `combat.md`. T1 deals combat damage to T2 and vice versa until one of them dies or both run out of damage.

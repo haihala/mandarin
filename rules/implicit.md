@@ -25,14 +25,28 @@ If it's their turn and the stack is empty, they may freely choose to end their t
 
 ### Attacking
 
+All creatures have an implicit activatable ability 'attack':
+
+tap self: attack target player with self
+
 ### Defending
+
+All creatures have an implicit hybrid ability 'block':
+
+if a creature owner doesn't control is attacking, tap self: X is target attack ability on stack. counter X, fight source of X.
 
 ### Untapping
 
-All creatures have an implicit triggered ability.
+All creatures have an implicit triggered ability:
 
 "start of your turn: untap self" 
 
 Please note that only creatures have this ability. A post must be crewed to untap.
+
+## Post crewing
+
+Posts have an implicit activated ability:
+
+tap any number of creatures with a sum of total damage and health equal to or more than self's crew amount: untap self
 
 

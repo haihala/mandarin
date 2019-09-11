@@ -7,6 +7,7 @@ Implicit abilities for attacking and blocking can be found `implicit.md`
 1. A player uses the implicit ability of creatures and attacks an another player.
 2. Defending player receives a trigger for being attacked and may use the hybrid ability to block.
 3. Fights happen for each defender that is defending in the order the abilities went onto the stack.
+4. If a blocker was present and attacker doesn't have trample, remove the attack ability from the stack. If no blocker was present or the attacker has remaining damage and trample, the remaining total damage is dealt to the receiving player.
 
 ## Fight structure
 
