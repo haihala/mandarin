@@ -47,6 +47,6 @@ Please note that only creatures have this ability. A post must be crewed to unta
 
 Posts have an implicit activated ability:
 
-tap any number of creatures with a sum of total damage and health equal to or more than self's crew amount: untap self
+tap any number of creatures you control with a sum of total damage and health equal to or more than self's crew amount: untap self
 
 
