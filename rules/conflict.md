@@ -1,6 +1,6 @@
 # Conflict
 
-This file describes how conflicts are resolved. If something is missed, it shall be missed. If a player draws before resolving their start of turn triggers, they are unable to resolve them now.
+This file describes how conflicts are resolved. 
 
 ## Resolution conflicts
 
@@ -22,6 +22,8 @@ The same rules apply for all abilities that would reveal hidden information. Pla
 
 If a player completes the action normally following the triggers resolution before noticing the trigger, it is considered missed and thus voided. For example, if a player controls something with a start of turn trigger, they are not allowed to resolve that after they draw their card for the turn. 
 
+However if someone else reacts before the owner of the triggering ability could, they can legally slap the player who is running over their triggers by a literal slap on the wrist. They can also activate their triggered abilities but the slap is more important.
+
 ### Undoing activatable abilities
 
-Costs must be played before anything happens. After costs have been paid, the action cannot be canceled. However the illegal actions rule applies if the ability had already revealed hidden information. 
+Costs must be played before anything happens. After costs have been paid, the action cannot be canceled. However the illegal actions rule applies if the ability had already revealed hidden information.

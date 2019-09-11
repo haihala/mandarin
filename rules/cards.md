@@ -72,10 +72,10 @@ Accurate descriptions of faction mechanics can be found in `keywords.md`
 * Have to jump through multiple loops to get what they want
 * Others have to jump through multiple loops to interact with them
 * 'Symmetrical effects are fair, right?'
-* Unique mechanic is tax
-	* Keyword on all types of cards.
-	* charges extra for actions such as buying or drawing cards.
-	* Profits go to the taxor when applicable.
+* Unique mechanic is redirect
+	* Keyword on momentary cards and abilities that target a singular player
+	* When an effect with redirect is put onto the stack, the targeted player may once per effect select new targets for for the spell.
+	* When the same player is selected for the second time, the target is locked in.
 
 ### Gobven
 

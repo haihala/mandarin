@@ -25,6 +25,14 @@ Same as play order, but current player is moved last.
 
 The player whose turn it is. Priority is not a turn.
 
+## Ability
+
+Activatable ability is an ability that has costs that can be paid. If they are, the ability is put onto the stack.
+
+Triggered ability is an ability that has a condition such as 'start of your turn' and when that trigger is hit, the ability automatically goes onto the stack.
+
+An ability can be both a triggered and an activatable ability by having both a trigger that needs to be hit and a cost that needs to be paid. These abilities count as both an activated and a triggered ability and are put onto the stack only if both the activation cost is paid and the trigger is present.
+
 ## Zone
 
 In short, a zone is a gameplay area where cards can exist. All existing zone types are listed below. Amount of cards in a zone is public information, but the cards themselves are often not.
