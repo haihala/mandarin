@@ -1,4 +1,4 @@
-# Lowly peasant
+# Wandering peasant
 
 duplicates: 3
 gold cost: 0
@@ -9,3 +9,4 @@ health: 2
 text:
 self dies pay 1 mana: Rebound self
 
+give target player control of self: gain one gold

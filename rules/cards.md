@@ -34,6 +34,10 @@ Does something, is discarded afterwards.
 
 Example momentary could draw two cards and then go to the graveyard.
 
+### Land
+
+Quite similar to the ones in mtg. More often utility based and the differences in mana carry over.
+
 ## Factions
 
 Factions are the closest thing to mtg colors. Different factions have strengths and weaknesses. 
