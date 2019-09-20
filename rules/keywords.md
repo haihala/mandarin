@@ -6,13 +6,13 @@ This file describes various keywords the game uses to function.
 
 Remove cards matching selector S from their current zone and add them to Z.
 
-## Draw
+## Draw a card
 
 Same as 'draw 1'.
 
 ## Draw N
 
-Take N cards from the top of your deck and move them to your hand. 
+Move N cards from the top of your deck to your hand. 
 They all move simultaniously and effects have to explicitly state if they wish to trigger for each card drawn.
 
 ## Destroy S
