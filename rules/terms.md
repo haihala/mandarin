@@ -6,14 +6,23 @@ This file describes terminology that comes with the game. Similar to `keywords.m
 
 Keywords and targeting abilities have the following keyword syntax:
 
-
 T is a text string such as a card type.
 N is a number such as an amount of something.
 L is a limiter, for example in "Target human creature", the 'human creature' bit is the limiter.
-S is a selector, for example "Destroy target human creature", "target human creature" is the target, where "human creature" is the limiter of the target and "target" is the method.
+S is a selector, for example "Destroy target human creature", "target human creature" is the target, where "human creature" is the limiter of the target and "target" is the method. 
 Z is a zone for example the graveyard.
 M is an amount of mana.
 X doesnt specify kind and is a tool to link abilities so that they share a value.
+
+S can be further specified with:
+
+* <numbers> to specify how many. Number is always a prefix. Suffix numbers are there to separate similar targets.
+* c for creature
+* p for permanent
+* m for momentary
+* a for attachment
+
+If type is not specified, card is assumed. If amount isn't specified it is assumed that any amount works.
 
 ## Play order
 
